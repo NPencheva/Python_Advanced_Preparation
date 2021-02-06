@@ -23,4 +23,3 @@ for row_index in range(number_of_rows - 1):
 print(f"{matrix[starting_row][starting_column]} {matrix[starting_row][starting_column + 1]}")
 print(f"{matrix[starting_row + 1][starting_column]} {matrix[starting_row + 1][starting_column + 1]}")
 print(max_square_sum)
-
